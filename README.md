@@ -43,3 +43,10 @@ Process Modeling
 SQL Validation Logic
 
 GitHub Documentation Structure
+
+## 🔄 Process Flow Diagram
+
+Below is the high-level workflow of the Digital Loan Application system:
+
+![Digital Loan Process Flow](Process-Flow/Digital_Loan_Process_Flow.jpg)
+
